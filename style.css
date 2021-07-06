@@ -218,6 +218,7 @@ footer {
 footer h2 {
     color: white;
     font-size: 40px;
+    text-transform: uppercase;
 }
 footer p {
     color: white;
